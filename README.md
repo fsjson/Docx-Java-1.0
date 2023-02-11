@@ -1,1 +1,3 @@
-# Java
+# Java FUNDAMENTAL
+## BESISIKAN TENTANG JAVA DASAR
+## selamat membaca...
